@@ -128,7 +128,7 @@
 			"Comment [Lose [-50 Culture, -50 Science, -100 Gold] upon being defeated]"
 		],
 		"promotions": ["Awaken"],
-	                   "["Power up"]
+	                      ["Power Up"]
 		"attackSound": "metalhit"
 	}
 ]
