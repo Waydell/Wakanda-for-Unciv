@@ -127,8 +127,8 @@
 			"Gain [-100] [Gold] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Comment [Lose [-50 Culture, -50 Science, -100 Gold] upon being defeated]"
 		],
-		"promotions": ["Adventure"],
-	                   "["OverPower"]
+		"promotions": ["Awaken"],
+	                   "["Power up"]
 		"attackSound": "metalhit"
 	}
 ]
